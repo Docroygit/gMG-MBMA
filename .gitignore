@@ -1,0 +1,5 @@
+outputs/
+*.RData
+*.rds
+.Rhistory
+.Rproj.user/
