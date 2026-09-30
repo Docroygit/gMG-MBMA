@@ -74,4 +74,6 @@ Sections are marked `# SECTION N:` in the script.
 
 ## Citation
 
-Please cite the accompanying article.
+If you use this code or data, please cite:
+
+Roy SS, Padhy BM, Anil A, Hota D, Srinivasan A, Wasnik A. Regimen-stratified Bayesian model-based meta-analysis of targeted biologics in generalised myasthenia gravis: efficacy comparison, mechanism-level class contrast, and endpoint sensitivity with model-informed trial design. *Naunyn Schmiedebergs Arch Pharmacol*. 2026 Sep 22. doi:[10.1007/s00210-026-05939-w](https://doi.org/10.1007/s00210-026-05939-w). PMID: 42768201.
