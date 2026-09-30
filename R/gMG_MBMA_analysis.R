@@ -1,6 +1,6 @@
 ###############################################################################
-# Bayesian model-based meta-analysis of targeted biologics in generalised
-# myasthenia gravis (gMG): hierarchical nonlinear Emax models (brms/Stan)
+# Regimen-stratified Bayesian model-based meta-analysis of targeted biologics
+# in generalised myasthenia gravis: hierarchical nonlinear Emax models (brms/Stan)
 #
 # Run from the repository root:  source("R/gMG_MBMA_analysis.R")
 # Input:   data/gMG_MBMA_extraction.xlsx

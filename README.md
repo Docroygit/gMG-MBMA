@@ -1,4 +1,4 @@
-# gMG MBMA
+# Regimen-stratified Bayesian model-based meta-analysis of targeted biologics in generalised myasthenia gravis
 
 Code and extracted data for a Bayesian model-based meta-analysis (MBMA) of targeted biologics in generalised myasthenia gravis (gMG), submitted to *Naunyn-Schmiedeberg's Archives of Pharmacology*.
 
