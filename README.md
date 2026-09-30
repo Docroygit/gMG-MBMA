@@ -1,6 +1,6 @@
 # Regimen-stratified Bayesian model-based meta-analysis of targeted biologics in generalised myasthenia gravis
 
-Code and extracted data for a Bayesian model-based meta-analysis (MBMA) of targeted biologics in generalised myasthenia gravis (gMG), submitted to *Naunyn-Schmiedeberg's Archives of Pharmacology*.
+Code and extracted data for a Bayesian model-based meta-analysis (MBMA) of targeted biologics in generalised myasthenia gravis (gMG), published in *Naunyn-Schmiedeberg's Archives of Pharmacology*.
 
 Nine placebo-controlled trials are analysed on two efficacy scales (MG-ADL and QMG). Dose-response is described by hierarchical nonlinear Emax models fitted with brms/Stan, with separate models for continuous and cyclical/weekly regimens and a placebo model per scale (six models in total).
 
