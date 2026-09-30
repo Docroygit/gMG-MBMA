@@ -74,4 +74,4 @@ Sections are marked `# SECTION N:` in the script.
 
 ## Citation
 
-Please cite the accompanying manuscript once published.
+Please cite the accompanying article.
